@@ -3891,13 +3891,18 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "gid": 22,
         "entidad": 0,
         "objeto": "Provincia",
         "fna": "Provincia de La Pampa",
         "gna": "Provincia",
         "nam": "La Pampa",
-        "in1": "42",
+        "in1": 42,
         "fdc": "Geografía",
         "sag": "IGN"
       }
@@ -3915,7 +3920,7 @@
         "objeto": "Provincia",
         "fna": "Provincia de Santa Cruz",
         "gna": "Provincia",
-        "nam": "Santa Cruz",
+        "nam": "Tierra del Fuego",
         "in1": 99,
         "fdc": "Geografía",
         "sag": "IGN"
